@@ -31,4 +31,4 @@ from customers c
 where c.loyalty_lvl= 'Gold'
 GROUP BY c.city
 order BY  gold_customers DESC;
-
+ ahhhhh
